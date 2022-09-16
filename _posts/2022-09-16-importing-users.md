@@ -1,5 +1,3 @@
-# Importing Users
-
 ---
 layout: post
 title: Importing Users
